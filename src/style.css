@@ -7,7 +7,6 @@ body {
   width: 100%;
   min-height: 100vh;
   display: flex;
-  border-radius: 25px;
   background-attachment: fixed;
   background-image: url(./image/v.jpg);
   background-size: cover;
